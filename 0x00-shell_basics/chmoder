@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x 6-firstdirectory
+chmod +x 7-movethatfile
