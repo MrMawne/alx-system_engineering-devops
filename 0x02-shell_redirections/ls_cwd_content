@@ -1,1 +1,20 @@
-ls -la
+total 84
+drwxr-xr-x 2 root root   327 Sep  4 17:53 .
+drwxr-xr-x 6 root root   104 Sep  4 02:32 ..
+-rwxr-xr-x 1 root root    32 Sep  4 07:46 0-hello_world
+-rw-r--r-- 1 root root 12288 Sep  4 07:33 .0-hello_world.swp
+-rwxr-xr-x 1 root root    28 Sep  4 08:02 1-confused_smiley
+-rw-r--r-- 1 root root 12288 Sep  4 08:12 .2-hellhello.swp
+-rwxr--r-- 1 root root    28 Sep  4 14:52 2-hellofile
+-rwxr--r-- 1 root root    39 Sep  4 15:01 3-twofiles
+-rwxr--r-- 1 root root    29 Sep  4 15:15 4-lastlines
+-rw------- 1 root root 12288 Sep  4 15:12 .4.swp
+-rwxr--r-- 1 root root    29 Sep  4 15:17 5-firstlines
+-rwxr--r-- 1 root root    36 Sep  4 15:44 6-third_line
+-rwxr--r-- 1 root root    97 Sep  4 17:46 7-file
+-rwxr--r-- 1 root root    36 Sep  4 17:53 8-cwd_state
+-rw-r--r-- 1 root root     0 Sep  4 17:44 \*\'Best
+-rw-r--r-- 1 root root   801 Sep  4 15:39 iacta
+-rw-r--r-- 1 root root     0 Sep  4 17:54 ls_cwd_content
+-rwxr-xr-x 1 root root    59 Sep  4 02:44 posher
+-rw-r--r-- 1 root root    94 Sep  4 02:46 README.md
